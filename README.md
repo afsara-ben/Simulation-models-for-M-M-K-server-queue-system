@@ -1,4 +1,5 @@
-# simulation-model-for-M-M-K-server-queue-system
+# Simulation models for M/M/K server-queue-system
+
 
 Lambda (λ) = Interarrival rate
 
